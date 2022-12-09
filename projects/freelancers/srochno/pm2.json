@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "fr2",
+      "script": "app.py",
+      "interpreter": "python3.10",
+      "interpreter_args": "-u"
+    }
+  ]
+}

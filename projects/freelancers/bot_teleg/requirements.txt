@@ -1,0 +1,7 @@
+pyrogram
+matplotlib
+TgCrypto
+pandas
+schedule
+numpy
+requests

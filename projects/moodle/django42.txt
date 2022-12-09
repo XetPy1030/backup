@@ -1,0 +1,2 @@
+https://github.com/XetPy1030/django42.git
+git

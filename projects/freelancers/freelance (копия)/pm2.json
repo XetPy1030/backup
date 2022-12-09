@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "bot",
+      "script": "main.py",
+      "interpreter": "python3.10",
+      "interpreter_args": "-u"
+    }
+  ]
+}
